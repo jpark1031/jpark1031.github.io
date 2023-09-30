@@ -1,9 +1,8 @@
 ---
 layout: post
-start_end: "Mar, 2016 - Feb, 2022"
+start_end: "Sep, 2013 - May, 2018"
 inline: true
 ---
 
-[Kyunghee University](https://www.khu.ac.kr),Yongin, South Korea\
+[University of California, San Diego](https://ece.ucsd.edu),San Diego CA ,United States of America\
 B.S in Electronic Engineering
-
