@@ -6,3 +6,4 @@ inline: true
 
 [LG Electronics](https://www.lge.com), Republic of Korea\
 Production engineering Research Institute PRI
+R&D 
