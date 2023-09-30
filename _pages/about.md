@@ -10,7 +10,7 @@ profile:
   address: >
     <p>209, Nonhyeon, Gangnam-gu, Seoul, Republic of Korea 06270</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 education: true # includes a list of education items
 experience: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
