@@ -1,8 +1,8 @@
 ---
 layout: post
-start_end: "Sep, 2013 - May, 2018"
+start_end: "Aug, 2018 - Feb, 2022"
 inline: true
 ---
 
-[University of California, San Diego](https://ece.ucsd.edu), San Diego CA ,United States of America\
-B.S in Electronic Engineering
+[LG Electronics](https://www.lge.com), Republic of Korea\
+Production engineering Research Institute PRI
