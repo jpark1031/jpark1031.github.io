@@ -8,7 +8,7 @@ profile:
   align: right
   image: JinbumPark.jpg
   address: >
-    <p>209, Nonhyeon-ro, Gangnam-gu, Seoul, Republic of Korea 06270</p>
+    <p>209, Nonhyeon, Gangnam-gu, Seoul, Republic of Korea 06270</p>
 
 news: true  # includes a list of news items
 education: true # includes a list of education items
