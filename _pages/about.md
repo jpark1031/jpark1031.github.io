@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Integrated M.S. & Ph.D. student in the <a href='https://sites.google.com/view/deepiplab/home?authuser=0'>Deep Image Processing Lab</a> at <a href='https://www.korea.ac.kr'>Korea University</a>. 
+subtitle: M.S. student in the <a href='https://sites.google.com/view/deepiplab/home?authuser=0'>Deep Image Processing Lab</a> at <a href='https://www.korea.ac.kr'>Korea University</a>. 
 
 profile:
   align: right
-  image: HongjaeLee.jpg
+  image: JinbumPark.jpg
   address: >
-    <p>73-15, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea 02855</p>
+    <p>209, Nonhyeon-ro, Gangnam-gu, Seoul, Republic of Korea 06270</p>
     <p>Room#402</p>
 
 news: true  # includes a list of news items
@@ -19,7 +19,7 @@ honors: false
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0), advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0). I am currently pursuing the MS & Ph.D degree in Electrical Engineering at [Korea University](www.korea.ac.kr) in Seoul, Korea. Previously, I completed my B.S. in Electronic Engineering at [Kyunghee University](https://www.khu.ac.kr/kor/main/index.do). My research interests are including :
+I am a graduate student in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0), advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0). I am currently pursuing the MS degree in Electrical Engineering at [Korea University](www.korea.ac.kr) in Seoul, Korea. Previously, I completed my B.S. in Electronic Engineering at [University of California San Diego](https://ece.ucsd.edu). My research interests are including :
 - Computer Vision
 - Deep Learning
 
