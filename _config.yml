@@ -113,6 +113,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  experience:
+    defaults:
+      layout: post
+    output: true
+    permalink: /experience/:path/
   education: 
     defaults:
       layout: post 
