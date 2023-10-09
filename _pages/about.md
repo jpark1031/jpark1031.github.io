@@ -21,10 +21,12 @@ social: true  # includes social icons at the bottom of the page
 
 I am a graduate student in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0), advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0). Currently pursuing the MS degree in Electrical Engineering at [Korea University](www.korea.ac.kr) in Seoul, Korea. Previously, I worked at [LG Electronics](https://www.lge.com) for 4 years as a Computer/Machine Vision engineer. I received my B.S. in Electronic Engineering at [University of California San Diego](https://ece.ucsd.edu). My research interests are including :
 - Computer/Machine Vision
-- Deep Learning
+- Deep Learning(Image enhancement, object detection)
+- Camera ISP
 
 
-but not limited to.
+You will find my resume attached below.
+[Resume](https://drive.google.com/file/d/1-QZPCP-VZXb0h84KSEggwpglnsYO8ZiE/view?usp=drive_link)
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
