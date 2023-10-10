@@ -10,7 +10,9 @@ category: work
 Vision Inspection program Development, R&D, Mar 2020 - Jan 2022
 
 Research and Development of an automated article inspection program for a Camera Module assembly line using computer vision and basic image signal processing.
-Basic particle inspection program design using computer vision library, OpenCV and MIL(Matrox)
+
+Particle inspection program designed using computer vision library, OpenCV and MIL(Matrox).
+
 This automated vision inspection program has contributed to increasing the yield of the production line by detecting defects and defects in the product.
 
 <div class="row justify-content-sm-center">
@@ -22,6 +24,6 @@ This automated vision inspection program has contributed to increasing the yield
     </div>
 </div>
 <div class="caption">
-    Sample image and 
+    Sample image and Flow of the process, and the sample image of Camera Module(LG Innotech) 
 </div>
 
