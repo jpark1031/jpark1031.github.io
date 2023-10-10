@@ -11,11 +11,6 @@ Aligner program Development, R&D, Aug 2018 - Dec 2019
 
 Research and Development of Die Attach platform equipment for Semi-Conductors and Camera Module assembly line.
 
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Motion_aligner_program.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
