@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PJB Project 1
-description: This is a description of PJB Project 1
-img: assets/img/gps_glass.png
+title: Automated Inspection Program 
+description: Developed Automated Vision Inspection program
+img: assets/img/Particle_Inspection_program.PNG
 importance: 1
 category: work
 ---
