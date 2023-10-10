@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Face and Object Detection in the dark 
-description: Low Light Image enhancement for Face and Object Detection
+title: Die Attach Platform
+description: Aligner Development, R&D, Aug 2018 - Dec 2019
 img:
-importance: 4
-category: Research
+importance: 2
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
