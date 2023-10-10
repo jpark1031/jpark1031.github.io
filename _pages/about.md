@@ -26,7 +26,8 @@ I am a graduate student in the [Deep Image Processing Lab](https://sites.google.
 
 
 You will find my resume attached below.
-[Resume](https://drive.google.com/file/d/1-QZPCP-VZXb0h84KSEggwpglnsYO8ZiE/view?usp=drive_link)
+[Resume](https://drive.google.com/file/d/1vudXBPsPweam8uwFnpNBCLgtXbjR10Fs/view?usp=drive_link)
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
