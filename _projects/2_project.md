@@ -2,7 +2,7 @@
 layout: page
 title: aligner program
 description: Research and Development of Die Attach platform equipment for Semi-Conductors and Camera Module.
-img: assets/img/Motion_aligner_program.PNG
+img: assets/img/die_attach_program.PNG
 importance: 2
 category: work
 ---
