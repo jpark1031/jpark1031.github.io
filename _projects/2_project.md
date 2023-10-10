@@ -2,7 +2,7 @@
 layout: page
 title: aligner program
 description: Research and Development of Die Attach platform equipment for Semi-Conductors and Camera Module.
-img: assets/img/Motion_aligner.PNG
+img: assets/img/Motion_aligner_program.PNG
 importance: 2
 category: work
 ---
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Motion_aligner.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Motion_aligner_program.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
