@@ -1,13 +1,15 @@
 ---
 layout: page
 title: aligner program
-description: Aligner Development, R&D, Aug 2018 - Dec 2019
+description: Research and Development of Die Attach platform equipment for Semi-Conductors and Camera Module.
 img: assets/img/Motion_alignmer.PNG
 importance: 2
 category: work
 ---
 
 Aligner Development, R&D, Aug 2018 - Dec 2019
+
+Research and Development of Die Attach platform equipment for Semi-Conductors and Camera Module assembly line.
 
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
