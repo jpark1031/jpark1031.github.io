@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-Aligner Development, R&D, Aug 2018 - Dec 2019
+Aligner program Development, R&D, Aug 2018 - Dec 2019
 
 Research and Development of Die Attach platform equipment for Semi-Conductors and Camera Module assembly line.
 
