@@ -24,10 +24,10 @@ This automated vision inspection program has contributed to increasing the yield
     </div>
 </div>
 <div class="caption">
-    Sample image and Flow of the process, and the sample image of Camera Module(LG Innotech) 
+    Sample Image and Flow of the process, Camera Module sample(LG Innotech) 
 </div>
 
 
-This "Automated Optical Particle Inspection Machine R&D" Project  received Bronze Medal from LG R&D Award, Year of 2020
+This "Automated Optical Particle Inspection Machine R&D" received Bronze Medal from LG R&D Award, Year of 2020
 
 
