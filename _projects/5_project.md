@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Face and Object Detection in the dark 
-description: Low Light Image enhancement for Face and Object Detection
+title: Low light image enhancement 
+description: Low light image enhancement using SPAD image sensor
 img:
-importance: 4
+importance: 3
 category: Research
 ---
 
