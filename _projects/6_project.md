@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Face and Object Detection in the dark 
+description: Low Light Image enhancement for Face and Object Detection
 img:
 importance: 4
 category: Research
