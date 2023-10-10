@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: PJB Project 1
+description: This is description of PJB Project 1
 img: assets/img/gps_glass.png
 importance: 1
 category: work
