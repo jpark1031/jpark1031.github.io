@@ -1,6 +1,6 @@
 ---
 layout: page
-title: aligner program development
+title: Aligner Program Development
 description: Development of Die Attach platform 
 img: assets/img/die_attach_program.PNG
 importance: 2
