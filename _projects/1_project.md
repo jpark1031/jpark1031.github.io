@@ -7,6 +7,11 @@ importance: 1
 category: work
 ---
 
+Vision Inspection program Development, R&D, Mar 2020 - Jan 2022
+
+Research and Development of automated article inspection program for Camera Module assembly line using computer vision and basic image signal processing.
+Basic particle inspection program design using computer vision library, OpenCV and MIL(Matrox)
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
